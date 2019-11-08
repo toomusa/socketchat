@@ -1,0 +1,16 @@
+#messages {
+  height: 400px;
+  min-height: 400px;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+#send {
+  float: right;
+}
+
+#status {
+  min-height: 25px;
+  text-align: center;
+  color: red;
+}
